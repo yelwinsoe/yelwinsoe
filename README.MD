@@ -1,5 +1,4 @@
 ## Hi 👋, It's Ye!
----
 
 Welcome here. I'm a Software Developer originall from 🇲🇲 Myanmar, current working in 🇸🇬 Singapore.
 
