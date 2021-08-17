@@ -13,4 +13,4 @@ Welcome here. I'm a Software Developer originally from 🇲🇲 Myanmar, current
 ## Reach Me ON
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yelwinsoe.mm@gmail.com?subject=[GitHub])
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yelwinsoe/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/yelwinsoemm)
+
