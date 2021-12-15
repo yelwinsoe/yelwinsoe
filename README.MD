@@ -1,6 +1,6 @@
 ## Hi 👋, It's Ye!
 
-Welcome here. I'm a Software Developer originally from 🇲🇲 Myanmar, current working in 🇸🇬 Singapore.
+Welcome here. I'm a Software Developer originally from 🇲🇲  Myanmar, current working in 🇸🇬  Singapore.
 
 ## Stats
 [![Ye's github stats](https://github-readme-stats.vercel.app/api?username=yelwinsoe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
