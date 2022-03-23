@@ -11,9 +11,8 @@ Welcome here. I'm a Software Developer originally from 🇲🇲  Myanmar, curren
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelwinsoe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently I'm
-1. Focusing on AI for Trading nano degree on Udacity 💖
-2. Focusing to improve my problem solving skills by doing leetcode 💫
-3. Reading a lot of books 📚
+1. Focusing to improve my problem solving skills by doing leetcode 💫
+2. Reading a lot of books 📚
 
 ## Reach Me ON
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yelwinsoe.mm@gmail.com?subject=[GitHub])
