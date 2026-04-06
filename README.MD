@@ -1,10 +1,14 @@
 # Ye Lwin Soe
 
-**Senior Full-Stack Developer — React + Python**
+**Senior Full-Stack Developer · React + Python**
 
-I build web products end-to-end. Eleven years across fintech, recruitment,
-and media — from solo founder to team lead to senior individual contributor.
-Based in Auckland, NZ. Available for remote contract work at 25 hours per week.
+I've spent the last 11 years building web products that people actually use,
+mostly with React on the frontend and Python on the back. I've worked across
+fintech, recruitment platforms, and media tools, sometimes as the sole
+developer, sometimes leading a team, always staying hands-on with the code.
+
+I'm based in Auckland now, studying a Master of Applied Finance at AUT, and
+looking for remote contract work at 25 hours per week.
 
 ---
 
@@ -16,7 +20,7 @@ React · Next.js · TypeScript · JavaScript · HTML · CSS
 **Backend**
 Python · FastAPI · Django · Node.js · Express
 
-**Cloud & DevOps**
+**Cloud and DevOps**
 AWS · Docker · Kubernetes · GitHub Actions · CI/CD
 
 **Databases**
@@ -26,36 +30,38 @@ PostgreSQL · MySQL · MongoDB · Redis
 
 ### Some things I've shipped
 
-**FindJobs** — Led the engineering team on a Singapore-based job portal.
-Rebuilt the CI/CD pipeline cutting build times by 90%, re-architected the
-frontend in Next.js growing organic traffic by 500%, and designed the AWS
-infrastructure on Kubernetes that finally made deployments stable.
+**FindJobs** — rebuilt the entire CI/CD pipeline (build times went from 2+
+hours to under 20 minutes), re-architected the frontend in Next.js which grew
+organic traffic by 500%, and set up the AWS infrastructure that stopped the
+deployment outages the team had been dealing with for months. Led the
+engineering team day-to-day throughout.
 
-**GrabJobs** — Senior engineer on a fast-growing recruitment platform. Scaled
-the architecture to handle 300% traffic growth, integrated Stripe for employer
-subscriptions (contributing to a 50% revenue increase), and overhauled
-monitoring with ELK and Prometheus to cut unplanned downtime by 20%.
+**GrabJobs** — helped scale the platform through a sudden 300% traffic spike
+by reworking the rendering architecture and breaking out microservices.
+Integrated Stripe for employer subscriptions, which contributed to a 50%
+revenue increase. Rebuilt monitoring with ELK and Prometheus so the team
+could catch problems before users did.
 
-**GIC** — Built a React micro-frontend framework unifying 10+ investment and
-analytics applications, and a Python backend with Redis caching that cut API
-response times by 30% for the dashboards used by investment teams daily.
+**GIC** — built a React micro-frontend framework that brought together 10+
+investment and analytics applications into one platform, and a Python backend
+with Redis caching that got API response times down by 30% for the dashboards
+analysts used every day.
 
-**BitsGreat** — Co-founded and built the entire platform solo. React frontend,
-Python backend, payment integration, AWS hosting. Took it from idea to live
+**BitsGreat** — co-founded this one and built the whole thing myself. React
+frontend, Python backend, payments, AWS hosting. Went from idea to live
 international customers.
 
 ---
 
-### Currently
+### Right now
 
-- Studying a **Master of Applied Finance** at AUT, Auckland
-- Available for **remote contract work** — 25 hrs/week
-- Building things with React and Python
-- Writing occasionally at [blog.yelwinsoe.dev](https://blog.yelwinsoe.dev)
+- Studying a **Master of Applied Finance** at AUT in Auckland
+- Open to **remote contract work**, 25 hrs/week
+- Building my portfolio site and writing when I get the chance
 
 ---
 
-### Get in touch
+### Say hi
 
 [yelwinsoe.mm@gmail.com](mailto:yelwinsoe.mm@gmail.com) ·
 [yelwinsoe.dev](https://yelwinsoe.dev) ·
