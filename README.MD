@@ -1,16 +1,62 @@
-## Hi 👋, It's Ye!
+# Ye Lwin Soe
 
-Welcome here. I'm a Full-Stack Developer currently working in 🇸🇬 Singapore.
+**Senior Full-Stack Developer — React + Python**
 
-## Stats
-[![Ye's github stats](https://github-readme-stats.vercel.app/api?username=yelwinsoe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+I build web products end-to-end. Eleven years across fintech, recruitment,
+and media — from solo founder to team lead to senior individual contributor.
+Based in Auckland, NZ. Available for remote contract work at 25 hours per week.
 
-## Languages & Tools
-<img src="https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelwinsoe&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+### What I work with
 
-## Reach Me ON
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yelwinsoe.mm@gmail.com?subject=[GitHub])
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yelwinsoe/)
+**Frontend**
+React · Next.js · TypeScript · JavaScript · HTML · CSS
 
+**Backend**
+Python · FastAPI · Django · Node.js · Express
+
+**Cloud & DevOps**
+AWS · Docker · Kubernetes · GitHub Actions · CI/CD
+
+**Databases**
+PostgreSQL · MySQL · MongoDB · Redis
+
+---
+
+### Some things I've shipped
+
+**FindJobs** — Led the engineering team on a Singapore-based job portal.
+Rebuilt the CI/CD pipeline cutting build times by 90%, re-architected the
+frontend in Next.js growing organic traffic by 500%, and designed the AWS
+infrastructure on Kubernetes that finally made deployments stable.
+
+**GrabJobs** — Senior engineer on a fast-growing recruitment platform. Scaled
+the architecture to handle 300% traffic growth, integrated Stripe for employer
+subscriptions (contributing to a 50% revenue increase), and overhauled
+monitoring with ELK and Prometheus to cut unplanned downtime by 20%.
+
+**GIC** — Built a React micro-frontend framework unifying 10+ investment and
+analytics applications, and a Python backend with Redis caching that cut API
+response times by 30% for the dashboards used by investment teams daily.
+
+**BitsGreat** — Co-founded and built the entire platform solo. React frontend,
+Python backend, payment integration, AWS hosting. Took it from idea to live
+international customers.
+
+---
+
+### Currently
+
+- Studying a **Master of Applied Finance** at AUT, Auckland
+- Available for **remote contract work** — 25 hrs/week
+- Building things with React and Python
+- Writing occasionally at [blog.yelwinsoe.dev](https://blog.yelwinsoe.dev)
+
+---
+
+### Get in touch
+
+[yelwinsoe.mm@gmail.com](mailto:yelwinsoe.mm@gmail.com) ·
+[yelwinsoe.dev](https://yelwinsoe.dev) ·
+[linkedin.com/in/yelwinsoe](https://linkedin.com/in/yelwinsoe)
