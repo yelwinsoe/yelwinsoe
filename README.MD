@@ -37,10 +37,8 @@ deployment outages the team had been dealing with for months. Led the
 engineering team day-to-day throughout.
 
 **GrabJobs** — helped scale the platform through a sudden 300% traffic spike
-by reworking the rendering architecture and breaking out microservices.
-Integrated Stripe for employer subscriptions, which contributed to a 50%
-revenue increase. Rebuilt monitoring with ELK and Prometheus so the team
-could catch problems before users did.
+by reworking the rendering architecture. Integrated Stripe for employer subscriptions, which contributed to a 50%
+revenue increase.
 
 **GIC** — built a React micro-frontend framework that brought together 10+
 investment and analytics applications into one platform, and a Python backend
