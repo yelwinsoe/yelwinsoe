@@ -1,66 +1,71 @@
-# Ye Lwin Soe
+# Hi, I'm Ye
 
-**Senior Full-Stack Developer · React + Python**
+I'm a software engineer based in Auckland, New Zealand. I enjoy turning unclear
+product problems into software that is simple to use, straightforward to maintain,
+and dependable in production.
 
-I've spent the last 11 years building web products that people actually use,
-mostly with React on the frontend and Python on the back. I've worked across
-fintech, recruitment platforms, and media tools, sometimes as the sole
-developer, sometimes leading a team, always staying hands-on with the code.
+Most of my work has been full stack: React and TypeScript in the browser, Python
+or Node.js behind the API, and cloud infrastructure underneath it all. Over the
+past 11+ years, I've worked on investment tools, recruitment platforms, media
+systems, research software, and an e-commerce business I co-founded.
 
-I'm based in Auckland now, studying a Master of Applied Finance at AUT, and
-looking for remote contract work at 25 hours per week.
+[Website](https://yelwinsoe.dev) ·
+[Writing](https://blog.yelwinsoe.dev) ·
+[LinkedIn](https://www.linkedin.com/in/yelwinsoe) ·
+[Email](mailto:yelwinsoe.mm@gmail.com)
 
----
+## How I like to work
 
-### What I work with
+I like being close to both the product and the code. That usually means asking
+questions early, understanding why something matters, choosing a practical
+technical approach, and staying involved after it reaches production.
 
-**Frontend**
-React · Next.js · TypeScript · JavaScript · HTML · CSS
+I care about:
 
-**Backend**
-Python · FastAPI · Django · Node.js · Express
+- clear architecture without unnecessary complexity
+- fast and reliable delivery pipelines
+- useful observability and calm production operations
+- code reviews and mentoring that help a team improve
+- communicating technical decisions in plain language
 
-**Cloud and DevOps**
-AWS · Docker · Kubernetes · GitHub Actions · CI/CD
+## A few things I'm proud of
 
-**Databases**
-PostgreSQL · MySQL · MongoDB · Redis
+- Unified 10+ independently deployed investment applications through a React
+  micro-frontend platform.
+- Cut a CI/CD build from more than 2 hours to under 20 minutes.
+- Helped a recruitment platform support 300% traffic growth.
+- Built a computer-vision labelling tool that increased research throughput by
+  200%.
+- Co-founded and built an e-commerce product from an idea to international
+  customers.
 
----
+## Tools I reach for
 
-### Some things I've shipped
+**React · Next.js · TypeScript · Python · FastAPI · Node.js · PostgreSQL · Redis ·
+AWS · Docker · Kubernetes · GitHub Actions**
 
-**FindJobs** — rebuilt the entire CI/CD pipeline (build times went from 2+
-hours to under 20 minutes), re-architected the frontend in Next.js which grew
-organic traffic by 500%, and set up the AWS infrastructure that stopped the
-deployment outages the team had been dealing with for months. Led the
-engineering team day-to-day throughout.
+I'm interested in engineering beyond individual frameworks too: API design,
+distributed systems, delivery automation, observability, technical leadership,
+and the trade-offs that keep software understandable as it grows.
 
-**GrabJobs** — helped scale the platform through a sudden 300% traffic spike
-by reworking the rendering architecture. Integrated Stripe for employer subscriptions, which contributed to a 50%
-revenue increase.
+## What I'm doing now
 
-**GIC** — built a React micro-frontend framework that brought together 10+
-investment and analytics applications into one platform, and a Python backend
-with Redis caching that got API response times down by 30% for the dashboards
-analysts used every day.
+I'm completing a **Master of Applied Finance at AUT** in January 2027. It gives me
+a deeper understanding of the financial domain alongside my software engineering
+background, especially for investment and fintech products.
 
-**BitsGreat** — co-founded this one and built the whole thing myself. React
-frontend, Python backend, payments, AWS hosting. Went from idea to live
-international customers.
+I'm targeting full-time senior software engineering and hands-on technical lead
+roles in New Zealand from March 2027. Availability is subject to Post Study Work
+Visa approval; the visa provides open work rights once granted and does not
+require employer sponsorship.
 
----
+## A note about the repositories
 
-### Right now
+Most of the software I've built professionally lives in private employer
+repositories. The public work here is only part of the story, so I've documented
+more of the problems, decisions, and outcomes on
+[my website](https://yelwinsoe.dev).
 
-- Studying a **Master of Applied Finance** at AUT in Auckland
-- Open to **remote contract work**, 25 hrs/week
-- Building my portfolio site and writing when I get the chance
-
----
-
-### Say hi
-
-[yelwinsoe.mm@gmail.com](mailto:yelwinsoe.mm@gmail.com) ·
-[yelwinsoe.dev](https://yelwinsoe.dev) ·
-[linkedin.com/in/yelwinsoe](https://linkedin.com/in/yelwinsoe)
+If you'd like to talk about software, product engineering, or a future role, feel
+free to email me at
+[yelwinsoe.mm@gmail.com](mailto:yelwinsoe.mm@gmail.com).
