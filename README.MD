@@ -6,8 +6,9 @@ and dependable in production.
 
 Most of my work has been full stack: React and TypeScript in the browser, Python
 or Node.js behind the API, and cloud infrastructure underneath it all. Over the
-past 11+ years, I've worked on investment tools, recruitment platforms, media
-systems, research software, and an e-commerce business I co-founded.
+past 11+ years, I've worked on investment tools (most recently at GIC, one of the
+world's largest sovereign wealth funds), recruitment platforms, media systems,
+research software, and an e-commerce business I co-founded.
 
 [Website](https://yelwinsoe.dev) ·
 [Writing](https://blog.yelwinsoe.dev) ·
@@ -33,6 +34,8 @@ I care about:
 - Unified 10+ independently deployed investment applications through a React
   micro-frontend platform.
 - Cut a CI/CD build from more than 2 hours to under 20 minutes.
+- Re-architected a job portal in Next.js; organic search traffic grew 500% over
+  the following year.
 - Helped a recruitment platform support 300% traffic growth.
 - Built a computer-vision labelling tool that increased research throughput by
   200%.
@@ -48,16 +51,11 @@ I'm interested in engineering beyond individual frameworks too: API design,
 distributed systems, delivery automation, observability, technical leadership,
 and the trade-offs that keep software understandable as it grows.
 
-## What I'm doing now
+## Finance and engineering
 
-I'm completing a **Master of Applied Finance at AUT** in January 2027. It gives me
-a deeper understanding of the financial domain alongside my software engineering
-background, especially for investment and fintech products.
-
-I'm targeting full-time senior software engineering and hands-on technical lead
-roles in New Zealand from March 2027. Availability is subject to Post Study Work
-Visa approval; the visa provides open work rights once granted and does not
-require employer sponsorship.
+My **Master of Applied Finance at AUT** gives me a deeper understanding of the
+financial domain alongside my software engineering background, especially for
+investment and fintech products.
 
 ## A note about the repositories
 
@@ -66,6 +64,6 @@ repositories. The public work here is only part of the story, so I've documented
 more of the problems, decisions, and outcomes on
 [my website](https://yelwinsoe.dev).
 
-If you'd like to talk about software, product engineering, or a future role, feel
-free to email me at
+If you'd like to talk about software, product engineering, or senior engineering
+and technical lead roles in New Zealand, feel free to email me at
 [yelwinsoe.mm@gmail.com](mailto:yelwinsoe.mm@gmail.com).
